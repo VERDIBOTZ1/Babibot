@@ -1,6 +1,8 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi 」
-│ • https://saweria.co/itsmedell
+│ •gopay :085706735450
+│ •dana  :085706735450
+│ • PULSA:083869803330 
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
